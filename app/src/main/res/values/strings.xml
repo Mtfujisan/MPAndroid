@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MPAndroid</string>
+    <item name="listView1" type="id" />
+</resources>
